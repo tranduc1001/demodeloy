@@ -1,0 +1,16 @@
+footer{
+    color: red;
+    width: 100%;
+    bottom: 0;
+    position: relative;
+}
+
+footer ul li a {
+    color: white;
+    text-decoration: none;
+}
+
+footer ul li a:hover{
+    color: gray;
+}
+
